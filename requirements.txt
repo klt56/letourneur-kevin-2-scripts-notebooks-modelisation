@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+nltk
+mlflow
+tensorflow
+gensim
+transformers
+jupyter
+notebook
+ipykernel
+scipy
+fastapi
+uvicorn
+python-dotenv
