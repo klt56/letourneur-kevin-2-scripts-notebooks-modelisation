@@ -1,0 +1,16 @@
+.venv/
+venv/
+.venv310/
+__pycache__/
+.ipynb_checkpoints/
+mlruns/
+mlartifacts/
+mlartifacts_step2/
+artifacts_step1/
+embeddings/
+*.db
+*.sqlite
+*.sqlite3
+.env
+.DS_Store
+training.1600000.processed.noemoticon.csv
